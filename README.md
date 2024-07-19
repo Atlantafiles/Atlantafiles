@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atlantafiles
-- 👀 I’m interested in Web Dev,DevOps,AI,ML,SE
-- 🌱 I’m currently learning Python Programming, 
+- 👀 I’m interested in Web Development,ML,SE,CP for now (might change with time)
+- 🌱 I’m currently learning Competitive Programming and JavaScript
 - 📫 How to reach me: atlantagogoi11@gmail.com
 
 <!---
