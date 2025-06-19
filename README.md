@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atlantafiles
-- 👀 I’m interested in Web Development,ML,SE,CP for now (might change with time)
-- 🌱 I’m currently learning Competitive Programming and MERN
+- 👀 I’m interested in Web Development,ML,Software Engineering,Competitive Programming, Application Development for now (might change with time)
+- 🌱 I’m currently learning Competitive Programming and Flutter
 - 📫 How to reach me: atlantagogoi11@gmail.com
 
 <!---
